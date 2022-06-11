@@ -81,6 +81,12 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['The Fire Mod Team'],
+			['Fire Claw',			'shadowmario',		'Leader of Mod / Artist / Musician',						'https://twitter.com/Shadow_Mario_',	'6e3027'],
+			['King David',			'shadowmario',		'Programmer / Concept Artist',								'https://twitter.com/Shadow_Mario_',	'1f4399'],
+			['Bartas',				'shadowmario',		'Programmer / Artist / Animator',							'https://twitter.com/Shadow_Mario_',	'878a34'],
+			['Ash The Creator',		'shadowmario',		'Main Concept / Background Artist',							'https://twitter.com/Shadow_Mario_',	'6c348a'],
+			['Kouno',				'shadowmario',		'Charter',													'https://twitter.com/Shadow_Mario_',	'151b66'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
