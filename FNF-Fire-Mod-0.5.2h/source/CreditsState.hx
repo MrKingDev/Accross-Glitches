@@ -85,8 +85,11 @@ class CreditsState extends MusicBeatState
 			['Fire Claw',			'shadowmario',		'Leader of Mod / Artist / Musician',						'https://twitter.com/Shadow_Mario_',	'6e3027'],
 			['King David',			'shadowmario',		'Programmer / Concept Artist',								'https://twitter.com/Shadow_Mario_',	'1f4399'],
 			['Bartas',				'shadowmario',		'Programmer / Artist / Animator',							'https://twitter.com/Shadow_Mario_',	'878a34'],
-			['Ash The Creator',		'shadowmario',		'Main Concept / Background Artist',							'https://twitter.com/Shadow_Mario_',	'6c348a'],
+			['Ash The Creator',		'shadowmario',		'Concept / Background Artist',								'https://twitter.com/Shadow_Mario_',	'6c348a'],
 			['Kouno',				'shadowmario',		'Charter',													'https://twitter.com/Shadow_Mario_',	'151b66'],
+			['Void',				'shadowmario',		'Artist',													'https://twitter.com/inactivevoid?t=TnOjc3GSmWtjBZSxSWJs1w&s=09',	'990000'],
+			['Redaction',			'shadowmario',		'Animator',													'https://twitter.com/un_binded',		'808080'],
+
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
